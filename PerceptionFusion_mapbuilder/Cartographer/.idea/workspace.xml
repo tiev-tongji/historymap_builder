@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="cartographer" targetName="cartographer.sensor.compressed_point_cloud_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping_2d.scan_matching.real_time_correlative_scan_matcher_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping_3d.scan_matching.rotational_scan_matcher_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping_2d.probability_grid_test" />
+      <config projectName="cartographer" targetName="cartographer.common.blocking_queue_test" />
+      <config projectName="cartographer" targetName="gtest_main" />
+      <config projectName="cartographer" targetName="cartographer.mapping_2d.map_limits_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping_3d.motion_filter_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping_3d.scan_matching.fast_correlative_scan_matcher_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping_2d.sparse_pose_graph_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping.probability_values_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping.submaps_test" />
+      <config projectName="cartographer" targetName="cartographer.transform.transform_interpolation_buffer_test" />
+      <config projectName="cartographer" targetName="cartographer.common.math_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping_3d.scan_matching.real_time_correlative_scan_matcher_test" />
+      <config projectName="cartographer" targetName="cartographer.sensor.voxel_filter_test" />
+      <config projectName="cartographer" targetName="cartographer.sensor.ordered_multi_queue_test" />
+      <config projectName="cartographer" targetName="cartographer.common.configuration_files_test" />
+      <config projectName="cartographer" targetName="gmock_main" />
+      <config projectName="cartographer" targetName="cartographer.io.points_processor_pipeline_builder_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping_3d.sparse_pose_graph.optimization_problem_test" />
+      <config projectName="cartographer" targetName="cartographer_compute_relations_metrics" />
+      <config projectName="cartographer" targetName="cartographer_autogenerate_ground_truth" />
+      <config projectName="cartographer" targetName="cartographer_detect_changes" />
+      <config projectName="cartographer" targetName="cartographer.common.rate_timer_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping.pose_graph_trimmer_test" />
+      <config projectName="cartographer" targetName="cartographer.common.fixed_ratio_sampler_test" />
+      <config projectName="cartographer" targetName="cartographer.sensor.range_data_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping_3d.scan_matching.precomputation_grid_test" />
+      <config projectName="cartographer" targetName="gmock" />
+      <config projectName="cartographer" targetName="cartographer.common.lua_parameter_dictionary_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping_3d.range_data_inserter_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping.trajectory_connectivity_state_test" />
+      <config projectName="cartographer" targetName="build_doc" />
+      <config projectName="cartographer" targetName="cartographer.mapping_3d.submaps_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping_2d.scan_matching.fast_correlative_scan_matcher_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping_3d.scan_matching.interpolated_grid_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping_2d.scan_matching.correlative_scan_matcher_test" />
+      <config projectName="cartographer" targetName="cartographer.transform.rigid_transform_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping_3d.hybrid_grid_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping.trajectory_node_test" />
+      <config projectName="cartographer" targetName="cartographer.io.proto_stream_test" />
+      <config projectName="cartographer" targetName="cartographer" />
+      <config projectName="cartographer" targetName="cartographer.mapping_3d.scan_matching.ceres_scan_matcher_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping_2d.range_data_inserter_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping_2d.xy_index_test" />
+      <config projectName="cartographer" targetName="cartographer.transform.transform_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping_3d.local_trajectory_builder_test" />
+      <config projectName="cartographer" targetName="cartographer.sensor.collator_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping_2d.scan_matching.ceres_scan_matcher_test" />
+      <config projectName="cartographer" targetName="cartographer.mapping_2d.submaps_test" />
+      <config projectName="cartographer" targetName="cartographer.sensor.point_cloud_test" />
+      <config projectName="cartographer" targetName="gtest" />
+      <config projectName="cartographer" targetName="cartographer.mapping.connected_components_test" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" GENERATION_DIR="build" BUILD_OPTIONS="-- -j 9" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="faab1583-1482-4eef-9744-b601e3e79fe2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Release" />
+  <component name="ProjectId" id="1kVuoAzLsg5OGvAK4JXtfPksS7z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/tiev-plus-slam_2020/src/modules/PerceptionFusion/PerceptionFusion/CMakeLists.txt" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunManager" selected="CMake Application.cartographer">
+    <configuration name="cartographer.common.blocking_queue_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.common.blocking_queue_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.common.blocking_queue_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.common.configuration_files_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.common.configuration_files_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.common.configuration_files_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.common.fixed_ratio_sampler_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.common.fixed_ratio_sampler_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.common.fixed_ratio_sampler_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.common.lua_parameter_dictionary_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.common.lua_parameter_dictionary_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.common.lua_parameter_dictionary_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.common.math_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.common.math_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.common.math_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.common.rate_timer_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.common.rate_timer_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.common.rate_timer_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.io.points_processor_pipeline_builder_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.io.points_processor_pipeline_builder_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.io.points_processor_pipeline_builder_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.io.proto_stream_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.io.proto_stream_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.io.proto_stream_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_2d.map_limits_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_2d.map_limits_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_2d.map_limits_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_2d.probability_grid_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_2d.probability_grid_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_2d.probability_grid_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_2d.range_data_inserter_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_2d.range_data_inserter_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_2d.range_data_inserter_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_2d.scan_matching.ceres_scan_matcher_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_2d.scan_matching.ceres_scan_matcher_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_2d.scan_matching.ceres_scan_matcher_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_2d.scan_matching.correlative_scan_matcher_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_2d.scan_matching.correlative_scan_matcher_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_2d.scan_matching.correlative_scan_matcher_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_2d.scan_matching.fast_correlative_scan_matcher_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_2d.scan_matching.fast_correlative_scan_matcher_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_2d.scan_matching.fast_correlative_scan_matcher_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_2d.scan_matching.real_time_correlative_scan_matcher_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_2d.scan_matching.real_time_correlative_scan_matcher_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_2d.scan_matching.real_time_correlative_scan_matcher_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_2d.sparse_pose_graph_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_2d.sparse_pose_graph_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_2d.sparse_pose_graph_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_2d.submaps_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_2d.submaps_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_2d.submaps_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_2d.xy_index_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_2d.xy_index_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_2d.xy_index_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_3d.hybrid_grid_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_3d.hybrid_grid_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_3d.hybrid_grid_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_3d.local_trajectory_builder_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_3d.local_trajectory_builder_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_3d.local_trajectory_builder_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_3d.motion_filter_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_3d.motion_filter_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_3d.motion_filter_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_3d.range_data_inserter_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_3d.range_data_inserter_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_3d.range_data_inserter_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_3d.scan_matching.ceres_scan_matcher_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_3d.scan_matching.ceres_scan_matcher_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_3d.scan_matching.ceres_scan_matcher_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_3d.scan_matching.fast_correlative_scan_matcher_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_3d.scan_matching.fast_correlative_scan_matcher_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_3d.scan_matching.fast_correlative_scan_matcher_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_3d.scan_matching.interpolated_grid_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_3d.scan_matching.interpolated_grid_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_3d.scan_matching.interpolated_grid_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_3d.scan_matching.precomputation_grid_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_3d.scan_matching.precomputation_grid_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_3d.scan_matching.precomputation_grid_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_3d.scan_matching.real_time_correlative_scan_matcher_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_3d.scan_matching.real_time_correlative_scan_matcher_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_3d.scan_matching.real_time_correlative_scan_matcher_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_3d.scan_matching.rotational_scan_matcher_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_3d.scan_matching.rotational_scan_matcher_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_3d.scan_matching.rotational_scan_matcher_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_3d.sparse_pose_graph.optimization_problem_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_3d.sparse_pose_graph.optimization_problem_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_3d.sparse_pose_graph.optimization_problem_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping_3d.submaps_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping_3d.submaps_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping_3d.submaps_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping.connected_components_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping.connected_components_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping.connected_components_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping.pose_graph_trimmer_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping.pose_graph_trimmer_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping.pose_graph_trimmer_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping.probability_values_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping.probability_values_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping.probability_values_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping.submaps_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping.submaps_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping.submaps_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping.trajectory_connectivity_state_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping.trajectory_connectivity_state_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping.trajectory_connectivity_state_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.mapping.trajectory_node_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.mapping.trajectory_node_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.mapping.trajectory_node_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.sensor.collator_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.sensor.collator_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.sensor.collator_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.sensor.compressed_point_cloud_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.sensor.compressed_point_cloud_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.sensor.compressed_point_cloud_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.sensor.ordered_multi_queue_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.sensor.ordered_multi_queue_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.sensor.ordered_multi_queue_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.sensor.point_cloud_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.sensor.point_cloud_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.sensor.point_cloud_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.sensor.range_data_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.sensor.range_data_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.sensor.range_data_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.sensor.voxel_filter_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.sensor.voxel_filter_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.sensor.voxel_filter_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.transform.rigid_transform_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.transform.rigid_transform_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.transform.rigid_transform_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.transform.transform_interpolation_buffer_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.transform.transform_interpolation_buffer_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.transform.transform_interpolation_buffer_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer.transform.transform_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer.transform.transform_test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer.transform.transform_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build_doc" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="build_doc" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer_autogenerate_ground_truth" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer_autogenerate_ground_truth" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer_autogenerate_ground_truth">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer_compute_relations_metrics" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer_compute_relations_metrics" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="cartographer" RUN_TARGET_NAME="cartographer_compute_relations_metrics">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartographer_detect_changes" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="cartographer_detect_changes" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="gmock" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="gmock_main" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="gtest" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cartographer" TARGET_NAME="gtest_main" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Google Test.cartographer.common.blocking_queue_test" />
+      <item itemvalue="Google Test.cartographer.common.configuration_files_test" />
+      <item itemvalue="Google Test.cartographer.common.fixed_ratio_sampler_test" />
+      <item itemvalue="Google Test.cartographer.common.lua_parameter_dictionary_test" />
+      <item itemvalue="Google Test.cartographer.common.math_test" />
+      <item itemvalue="Google Test.cartographer.common.rate_timer_test" />
+      <item itemvalue="Google Test.cartographer.io.points_processor_pipeline_builder_test" />
+      <item itemvalue="Google Test.cartographer.io.proto_stream_test" />
+      <item itemvalue="Google Test.cartographer.mapping_2d.map_limits_test" />
+      <item itemvalue="Google Test.cartographer.mapping_2d.probability_grid_test" />
+      <item itemvalue="Google Test.cartographer.mapping_2d.range_data_inserter_test" />
+      <item itemvalue="Google Test.cartographer.mapping_2d.scan_matching.ceres_scan_matcher_test" />
+      <item itemvalue="Google Test.cartographer.mapping_2d.scan_matching.correlative_scan_matcher_test" />
+      <item itemvalue="Google Test.cartographer.mapping_2d.scan_matching.fast_correlative_scan_matcher_test" />
+      <item itemvalue="Google Test.cartographer.mapping_2d.scan_matching.real_time_correlative_scan_matcher_test" />
+      <item itemvalue="Google Test.cartographer.mapping_2d.sparse_pose_graph_test" />
+      <item itemvalue="Google Test.cartographer.mapping_2d.submaps_test" />
+      <item itemvalue="Google Test.cartographer.mapping_2d.xy_index_test" />
+      <item itemvalue="Google Test.cartographer.mapping_3d.hybrid_grid_test" />
+      <item itemvalue="Google Test.cartographer.mapping_3d.local_trajectory_builder_test" />
+      <item itemvalue="Google Test.cartographer.mapping_3d.motion_filter_test" />
+      <item itemvalue="Google Test.cartographer.mapping_3d.range_data_inserter_test" />
+      <item itemvalue="Google Test.cartographer.mapping_3d.scan_matching.ceres_scan_matcher_test" />
+      <item itemvalue="Google Test.cartographer.mapping_3d.scan_matching.fast_correlative_scan_matcher_test" />
+      <item itemvalue="Google Test.cartographer.mapping_3d.scan_matching.interpolated_grid_test" />
+      <item itemvalue="Google Test.cartographer.mapping_3d.scan_matching.precomputation_grid_test" />
+      <item itemvalue="Google Test.cartographer.mapping_3d.scan_matching.real_time_correlative_scan_matcher_test" />
+      <item itemvalue="Google Test.cartographer.mapping_3d.scan_matching.rotational_scan_matcher_test" />
+      <item itemvalue="Google Test.cartographer.mapping_3d.sparse_pose_graph.optimization_problem_test" />
+      <item itemvalue="Google Test.cartographer.mapping_3d.submaps_test" />
+      <item itemvalue="Google Test.cartographer.mapping.connected_components_test" />
+      <item itemvalue="Google Test.cartographer.mapping.pose_graph_trimmer_test" />
+      <item itemvalue="Google Test.cartographer.mapping.probability_values_test" />
+      <item itemvalue="Google Test.cartographer.mapping.submaps_test" />
+      <item itemvalue="Google Test.cartographer.mapping.trajectory_connectivity_state_test" />
+      <item itemvalue="Google Test.cartographer.mapping.trajectory_node_test" />
+      <item itemvalue="Google Test.cartographer.sensor.collator_test" />
+      <item itemvalue="Google Test.cartographer.sensor.compressed_point_cloud_test" />
+      <item itemvalue="Google Test.cartographer.sensor.ordered_multi_queue_test" />
+      <item itemvalue="Google Test.cartographer.sensor.point_cloud_test" />
+      <item itemvalue="Google Test.cartographer.sensor.range_data_test" />
+      <item itemvalue="Google Test.cartographer.sensor.voxel_filter_test" />
+      <item itemvalue="Google Test.cartographer.transform.rigid_transform_test" />
+      <item itemvalue="Google Test.cartographer.transform.transform_interpolation_buffer_test" />
+      <item itemvalue="Google Test.cartographer.transform.transform_test" />
+      <item itemvalue="CMake Application.build_doc" />
+      <item itemvalue="CMake Application.cartographer" />
+      <item itemvalue="CMake Application.cartographer_autogenerate_ground_truth" />
+      <item itemvalue="CMake Application.cartographer_compute_relations_metrics" />
+      <item itemvalue="CMake Application.cartographer_detect_changes" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="faab1583-1482-4eef-9744-b601e3e79fe2" name="Default Changelist" comment="" />
+      <created>1605798252182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605798252182</updated>
+      <workItem from="1605798253299" duration="11000" />
+      <workItem from="1605798643722" duration="89000" />
+      <workItem from="1605799100588" duration="178000" />
+      <workItem from="1605799728660" duration="338000" />
+      <workItem from="1605800783235" duration="3852000" />
+      <workItem from="1605856452323" duration="10927000" />
+      <workItem from="1605887766204" duration="452000" />
+      <workItem from="1605897866456" duration="3388000" />
+      <workItem from="1605911543585" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="290" width="430" height="486" key="FileChooserDialogImpl" timestamp="1605911551149">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state x="743" y="290" width="430" height="486" key="FileChooserDialogImpl/0.31.1920.1000@0.31.1920.1000" timestamp="1605911551149" />
+    <state x="464" y="167" width="992" height="732" key="SettingsEditor" timestamp="1605857901768">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state x="464" y="167" width="992" height="732" key="SettingsEditor/0.31.1920.1000@0.31.1920.1000" timestamp="1605857901768" />
+  </component>
+</project>

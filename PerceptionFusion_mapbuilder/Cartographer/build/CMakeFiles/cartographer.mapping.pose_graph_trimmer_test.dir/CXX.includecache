@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//cartographer/mapping/id.h
+algorithm
+-
+ostream
+-
+tuple
+-
+vector
+-
+
+..//cartographer/mapping/pose_graph_trimmer.h
+cartographer/mapping/id.h
+../cartographer/mapping/cartographer/mapping/id.h
+
+/home/neousys/tiev-plus-slam_2020/src/modules/PerceptionFusion/Cartographer/cartographer/mapping/pose_graph_trimmer_test.cc
+cartographer/mapping/pose_graph_trimmer.h
+/home/neousys/tiev-plus-slam_2020/src/modules/PerceptionFusion/Cartographer/cartographer/mapping/cartographer/mapping/pose_graph_trimmer.h
+vector
+-
+cartographer/mapping/id.h
+/home/neousys/tiev-plus-slam_2020/src/modules/PerceptionFusion/Cartographer/cartographer/mapping/cartographer/mapping/id.h
+gtest/gtest.h
+/home/neousys/tiev-plus-slam_2020/src/modules/PerceptionFusion/Cartographer/cartographer/mapping/gtest/gtest.h
+
